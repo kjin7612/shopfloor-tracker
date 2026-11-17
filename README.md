@@ -2,7 +2,7 @@
 
 A lightweight production tracking app for small manufacturing plants: tablet-friendly shift reports, live OEE dashboards and defect tracking.
 
-**Live demo:** https://shopfloor-tracker.vercel.app
+**Live demo:** https://shopfloor-tracker-demo.vercel.app
 
 ## What it does
 
